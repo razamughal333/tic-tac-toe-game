@@ -64,6 +64,7 @@ Hehe
                     }
                 });
             });
+
             function checkGameOver() {
                 var topLeft = squares[0].innerText;
                 var topMiddle = squares[1].innerText;
